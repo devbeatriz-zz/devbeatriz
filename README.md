@@ -1,4 +1,4 @@
-### Olá, eu sou a Beatriz Rodrigues
+### Hi there 👋
 
  <div>
   <a href="https://github.com/devbeatriz">
